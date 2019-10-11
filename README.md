@@ -25,5 +25,5 @@ File:
 Input:
 	![image](https://github.com/LanaChen0/Predict_News/blob/master/input.PNG)
 	
-Output:
+Output(You can find the answer on the bottom):
 	![image](https://github.com/LanaChen0/Predict_News/blob/master/output.PNG)

@@ -26,4 +26,4 @@ Input:
 	![image](https://github.com/LanaChen0/Predict_News/blob/master/input.PNG)
 	
 Output:
-	![image]()
+	![image](https://github.com/LanaChen0/Predict_News/blob/master/output.PNG)

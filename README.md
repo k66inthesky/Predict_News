@@ -21,3 +21,9 @@ File:
 	|-our_model.h5 # it had already been trained with 28,768 corpus
 	|-our_model_weight.h5 # it had already been trained with 28,768 corpus
 	|-tokenization.py
+
+Input(input will be a table/dataframe with only one row):
+	![image](https://github.com/LanaChen0/Predict_News/blob/master/input.PNG)
+	
+Output(You can find the answer on the bottom):
+	![image](https://github.com/LanaChen0/Predict_News/blob/master/output.PNG)

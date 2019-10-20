@@ -5,6 +5,17 @@ Implementaion of "Approach to Predicting News ─ A Precise Multi-LSTM Network W
 	Target: To predict an unknown news/article to one of the eight categories.
 	File description:
 		To use this project, you only need to execute two programs--news2E.ipynb and predict.py.
+		
+Notice:
+	
+	*input:
+		
+		CHINESE ONLY!!!
+		
+		Should be like the example(myinput.csv):
+			two rows: 
+				-context
+				-your news
 
 File:
 

@@ -4,7 +4,9 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 	Update: Obt,22th,2019
 	Target: To predict an unknown news/article to one of the eight categories.
 	File description:
-		To use this project, you only need to execute two programs--news2E.ipynb and predict.py.
+		To use this project, you should download the whole package of files,
+		and you only need to execute two programs--news2E.ipynb and predict.py.
+		It's optional for replacinging the context in 'myinput.csv' if you wish to predict your own news.
 		
 Notice:
 	
@@ -12,7 +14,7 @@ Notice:
 		
 		CHINESE ONLY!!!
 		
-		Should be like the example(myinput.csv):
+		Should be like the example'myinput.csv':
 			two rows: 
 				-context
 				-your news // It can be any size, but 30*20 words per paragraph may be better.

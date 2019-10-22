@@ -9,19 +9,22 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 		It's optional for replacinging the context in 'myinput.csv' if you wish to predict your own news.
 		
 Installation:
-	
+
+	(Request)
 	-Tensorflow
 	-Numpy
 	-json
 	-Pandas
 	-Keras
+	-re
+	
+	(Optional)
 	-collections
 	-copy
 	-math
-	-re
 	-six
 	-shutil
-	-
+	-unicodedata
 	
 
 Notice:

@@ -40,3 +40,5 @@ Input(input will be a table/dataframe with only one row):
 	
 Output(You can find the answer on the bottom):
 	![image](https://github.com/LanaChen0/Predict_News/blob/master/output.PNG)
+	
+If you have any questions, please feel free to ask;)

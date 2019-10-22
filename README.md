@@ -8,6 +8,13 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 		and you only need to execute two programs--news2E.ipynb and predict.py.
 		It's optional for replacinging the context in 'myinput.csv' if you wish to predict your own news.
 		
+Installation:
+	
+	-Tensorflow
+	-Numpy
+	-Pandas
+	
+
 Notice:
 	
 	*input:

@@ -12,7 +12,15 @@ Installation:
 	
 	-Tensorflow
 	-Numpy
+	-json
 	-Pandas
+	-Keras
+	-collections
+	-copy
+	-math
+	-re
+	-six
+	-
 	
 
 Notice:

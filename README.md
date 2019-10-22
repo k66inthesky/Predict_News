@@ -20,6 +20,7 @@ Installation:
 	-math
 	-re
 	-six
+	-shutil
 	-
 	
 

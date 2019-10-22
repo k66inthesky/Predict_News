@@ -47,7 +47,7 @@ File:
 	|-predict.py #predict the last output to one of the eight categories 
 	|-extract_features.py
 	|-modeling.py
-	|-myinput.csv
+	|-myinput.csv #it's optional for replacinging the context
 	|-mytmpfile.jsonl
 	|-optimization.py
 	|-our_model.h5 # it had already been trained with 28,768 corpus

@@ -1,4 +1,4 @@
-Implementation of "Approach to Predicting News ─ A Precise Multi-LSTM Network With BERT"
+Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LSTM Network With BERT"
 	
 	Author: Lana Chen(m073040105@g-mail.nsysu.edu.tw)
 	Update: Obt,22th,2019

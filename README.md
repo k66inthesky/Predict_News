@@ -2,7 +2,7 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 	
 	Author: Lana Chen(m073040105@g-mail.nsysu.edu.tw)
 	Update: Obt,22th,2019
-	Target: To predict an unknown news/article to one of the eight categories.
+	Target: To predict an unknown news/article from the eight categories(Technology, Finance, Politics, Entertainment, International, Sports, Health, Fashion)
 	File description:
 		To use this project, you should download the whole package of files,
 		and you only need to execute two programs--news2E.ipynb and predict.py.

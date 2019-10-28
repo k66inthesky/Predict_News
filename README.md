@@ -1,6 +1,10 @@
 Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LSTM Network With BERT"
 	
-	Author: Lana Chen(m073040105@g-mail.nsysu.edu.tw)
+	Author: 
+		Lana Chen(m073040105@g-mail.nsysu.edu.tw)
+		Amanda Huang(amanda10702@gmail.com)
+	Advisor:
+		Meng-Chang Chen(mcc@iis.sinica.edu.tw)
 	Update: Obt,27th,2019
 	Target: To predict an unknown news/article from the eight categories(Technology, Finance, Politics, Entertainment, International, Sports, Health, Fashion)
 	File description:

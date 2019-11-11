@@ -8,8 +8,9 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 	Update: Nov.11th,2019
 	Target: To predict an unknown news/article from the eight categories(Technology, Finance, Politics, Entertainment, International, Sports, Health, Fashion)
 	File description:
-		To use this project, you should download the whole package of files,
-		and you only need to execute two programs--news2E.ipynb and predict.py.
+		To use this project, you should download the whole package of files and the bert_model.ckpt.data-00000-of-00001,
+		and follow the following install instructions.
+		You only need to execute two programs--news2E.ipynb and predict.py.
 		It's optional for replacinging the context in 'myinput.csv' if you wish to predict your own news.
 		
 Installation:
@@ -30,7 +31,7 @@ Installation:
 	-shutil
 	-unicodedata
 	
-	***MUST DOWNLOAD FILE:
+	(MUST DOWNLOAD FILE)
 	"bert_model.ckpt.data-00000-of-00001"
 	(It's one of the file inside this folder "chinese_L-12_H-768_A-12"
 	from this website: https://github.com/google-research/bert)

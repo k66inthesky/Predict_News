@@ -2,7 +2,7 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 
 
 
-While predicting news from LTN during 2019 July 20th to August 8th, the accuracy may up to 99%.
+While predicting news from LTN during 2019 July 25th to August 5th, the accuracy may up to 99%.
 The accuracy of experiment is related to the corpus, that is, if one news including many new words, this program may do bad.
 
 	Author: 

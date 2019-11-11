@@ -1,5 +1,10 @@
 Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LSTM Network With BERT"
-	
+
+
+
+While predicting news from LTN during 2019 July 20th to August 8th, the accuracy may up to 99%.
+The accuracy of experiment is related to the corpus, that is, if one news including many new words, this program may do bad.
+
 	Author: 
 		Lana Chen(m073040105@g-mail.nsysu.edu.tw)
 		Amanda Huang(amanda10702@gmail.com)

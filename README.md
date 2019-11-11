@@ -5,7 +5,7 @@ Implementation of the paper "Approach to Predicting News ─ A Precise Multi-LST
 		Amanda Huang(amanda10702@gmail.com)
 	Advisor:
 		Meng-Chang Chen(mcc@iis.sinica.edu.tw)
-	Update: Obt,27th,2019
+	Update: Nov.11th,2019
 	Target: To predict an unknown news/article from the eight categories(Technology, Finance, Politics, Entertainment, International, Sports, Health, Fashion)
 	File description:
 		To use this project, you should download the whole package of files,
@@ -29,6 +29,18 @@ Installation:
 	-six
 	-shutil
 	-unicodedata
+	
+	***MUST DOWNLOAD FILE:
+	"bert_model.ckpt.data-00000-of-00001"
+	(It's one of the file inside this folder "chinese_L-12_H-768_A-12"
+	from this website: https://github.com/google-research/bert)
+	AND PUT IT IN THE FOLDER:
+	"Predict_News/chinese_L-12_H-768_A-12/"
+	
+	OR YOU CAN JUST DOWNLOAD THE WHOLE FOLDER "chinese_L-12_H-768_A-12"
+	from this website: https://github.com/google-research/bert)
+	
+
 	
 
 Notice:

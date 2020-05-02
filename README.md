@@ -21,7 +21,8 @@ The accuracy of experiment is related to the corpus, that is, if one news includ
 Installation:
 
 	(Request)
-	-Tensorflow
+	-Python(3.6.2)
+	-Tensorflow(1.15)
 	-Numpy
 	-json
 	-Pandas

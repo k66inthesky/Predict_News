@@ -60,6 +60,8 @@ Notice:
 			two rows: 
 				-context
 				-your news // It can be any size, but 30*20 words per paragraph may be better.
+				
+	*MUST CREATE AN EMPTY FOLDER, "embedding" BY YOURSELF 
 
 File:
 
@@ -67,6 +69,7 @@ File:
 	|-embedding
 		|-myoutput.npy
 	|-news2E.ipynb #turn your input news(myinput.csv) into mytmpfile.jsonl and myoutput.npy(located at ./embedding/)
+	|-news2E_optional #only need to choose one of the two--news2E.ipynb or news2E_optional
 	|-predict.py #predict the last output to one of the eight categories 
 	|-extract_features.py
 	|-modeling.py

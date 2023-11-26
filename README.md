@@ -1,4 +1,4 @@
-Implementation of the paper 2019 IMP conferrence in Kaohsiung, Taiwan -
+Implementation of the paper 2019 IMP conferrence(https://arxiv.org/abs/2204.12093) in Kaohsiung, Taiwan -
 Chen, C. L., Huang, P. Y., Lin J., and Huang, Y. T. 2019 *Approach to Predicting News ─ A Precise Multi-LSTM Network With BERT*. 
 
 
@@ -6,7 +6,7 @@ While predicting news from LTN website during 2019 July 25th to August 5th, the 
 The accuracy of experiment is related to the corpus, that is, if one news including many new words, this program may do bad.
 
 	Author: 
-		Lana Chen(m073040105@g-mail.nsysu.edu.tw)
+		Lana Chen(k66inthesky@gmail.com)
 		Amanda Huang(amanda10702@gmail.com)
 	Advisor:
 		Meng-Chang Chen(mcc@iis.sinica.edu.tw)
